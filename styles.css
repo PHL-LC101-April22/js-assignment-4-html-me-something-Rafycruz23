@@ -20,5 +20,12 @@ color: white;
 }
 
 .funParagraph {
-  ;
+text-decoration: underline;
+}
+
+#degree {
+  background-color: green;
+  color: azure;
+  padding: 10px;
+  align-content: center;
 }
