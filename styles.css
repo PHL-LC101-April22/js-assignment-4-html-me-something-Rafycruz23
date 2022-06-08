@@ -1,12 +1,24 @@
 /* Write your CSS here! */
 body {
-    margin: 8px;
+    margin: 30px;
   }
 
-#mainHeading {
-background-color: red;
-};
+h3{
+text-decoration: underline;
+text-decoration-color: lightslategray;
+  }
 
-testP.funParagraph {
-    background-color: green;
+p {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#mainHeading {
+background-color: green;
+font-family: monospace;
+text-align: center;
+color: white;
+}
+
+.funParagraph {
+  ;
 }
