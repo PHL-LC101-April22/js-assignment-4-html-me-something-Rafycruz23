@@ -13,14 +13,14 @@ p {
 }
 
 #mainHeading {
-background-color: rgb(43, 158, 43);
+background-color: green;
 font-family: monospace;
 text-align: center;
-color: white;
+color: red;
 }
 
-.funParagraph {
-text-decoration: underline;
+testp.funParagraph {
+color: green;
 }
 
 #degree {
