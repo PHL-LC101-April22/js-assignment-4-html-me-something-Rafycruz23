@@ -1,6 +1,7 @@
 /* Write your CSS here! */
 body {
     margin: 8px;
+    display: block;
   }
 
 h3{
@@ -19,12 +20,25 @@ text-align: center;
 color: red;
 }
 
-testp.funParagraph {
+.testp {
 color: green;
 }
 
 #degree {
-  background-color: rgb(25, 168, 37);
-  color: azure;
-  padding: 10px;
+background-color: rgb(25, 168, 37);
+color: azure;
+padding: 10px;
+}
+
+#experience {
+padding:25px 25px 25px 25px;
+}
+
+#skills {
+padding: 25px 25px 25px 25px;
+
+}
+
+article {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
