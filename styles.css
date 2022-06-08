@@ -1,1 +1,12 @@
 /* Write your CSS here! */
+body {
+    margin: 8px;
+  }
+
+#mainHeading {
+background-color: red;
+};
+
+testP.funParagraph {
+    background-color: green;
+}
