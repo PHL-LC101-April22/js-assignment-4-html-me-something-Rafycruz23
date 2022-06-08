@@ -1,6 +1,6 @@
 /* Write your CSS here! */
 body {
-    margin: 30px;
+    margin: 8px;
   }
 
 h3{
@@ -13,7 +13,7 @@ p {
 }
 
 #mainHeading {
-background-color: green;
+background-color: rgb(43, 158, 43);
 font-family: monospace;
 text-align: center;
 color: white;
@@ -24,8 +24,7 @@ text-decoration: underline;
 }
 
 #degree {
-  background-color: green;
+  background-color: rgb(25, 168, 37);
   color: azure;
   padding: 10px;
-  align-content: center;
 }
