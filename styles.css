@@ -14,13 +14,14 @@ p {
 }
 
 #mainHeading {
-background-color: red;
+color: red;
 font-family: monospace;
 text-align: center;
 }
 
 .funParagraph {
 color: green;
+background-color: green;
 }
 
 #degree {
