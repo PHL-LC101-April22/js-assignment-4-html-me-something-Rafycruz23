@@ -19,9 +19,8 @@ font-family: monospace;
 text-align: center;
 }
 
-testP.funParagraph {
+.funParagraph {
 color: green;
-background-color: green;
 }
 
 #degree {
