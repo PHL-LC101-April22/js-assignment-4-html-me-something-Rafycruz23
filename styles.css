@@ -19,12 +19,12 @@ font-family: monospace;
 text-align: center;
 }
 
-#testP.funParagraph {
-color: rgb(0, 128, 0);
+.funParagraph#testP {
+color: green;
 }
 
 #degree {
-color: azure;
+color: rgb(0, 128, 0);
 padding: 10px;
 }
 
